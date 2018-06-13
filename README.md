@@ -1,2 +1,5 @@
 # HelloWorldFP
-Beispielprojekt für Eclipse auf GitHub
+Beispielprojekt fuer Eclipse auf GitHub
+
+# Meine erste Aenderung
+Dies, Das
